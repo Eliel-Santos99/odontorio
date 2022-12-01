@@ -1,0 +1,28 @@
+.container{
+    max-width: 71.25rem !important;
+}
+
+.bg-services{
+    background-image: url("../img/background.jpg");
+    background-size: cover;
+}
+
+#quem-somos{
+    margin-top: 6.25rem;
+}
+
+.teste{
+    background-color: white;
+    height: 5.4375rem;
+}
+
+.carousel-indicators [data-bs-target]{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: wheat;
+}
+
+div{
+    scroll-margin-top: 80px;
+}
